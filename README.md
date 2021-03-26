@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 </ul>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZYK1236&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ZYK1236&show_icons=true">
