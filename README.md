@@ -4,7 +4,7 @@
 
 <ul>
  <li>🎓 A junior of Xidian university</li>
- <li>🔭 Used to work in @Bytedance</li>
+ <li>🔨 Used to work as an internship in <a href="https://github.com/bytedance">@Bytedance</a></li>
  <li>🌱 I’m currently learning Go, Redis, MQ...</li>
  <li>💗 React lover
  <li>🍜 粤菜永远的神！广州 yyds
